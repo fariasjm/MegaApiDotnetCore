@@ -58,17 +58,17 @@ em aplicações, dashboards ou ferramentas relacionadas a jogos.
   <tr>
     <td>GET</td>
     <td>/api/v1/robots</td>
-    <td>Returns a list of all robots</td>
+    <td>Retorna uma lista de todos os robôs (chefes) disponíveis no banco de dados</td>
   </tr>
   <tr>
     <td>GET</td>
     <td>/api/v1/robots/{id}</td>
-    <td>Returns details of a specific robot by ID</td>
+    <td>Retorna informações detalhadas sobre um robô (chefe) específico com base no seu ID único</td>
   </tr>
   <tr>
     <td>POST</td>
     <td>/api/v1/robots</td>
-    <td>Endpoint to create a new robot entry</td>
+    <td>Cria uma nova entrada de robô (chefe) no banco de dados</td>
   </tr>
 </table>
 
