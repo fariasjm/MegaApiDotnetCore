@@ -88,7 +88,8 @@ O projeto depende dos seguintes pacotes NuGet e tecnologias principais:
   - Newtonsoft.Json (opcional) – Serialização JSON avançada (se necessário)
   - Microsoft.EntityFrameworkCore.SqlServer ou Sqlite – Provedor de banco de dados (dependendo da configuração)
 
-### Arch
+### Arquitetura
+O projeto segue uma arquitetura limpa e modular, visando manutenibilidade e escalabilidade:
 
 ```🌐
 src
