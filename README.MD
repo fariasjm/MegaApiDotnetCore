@@ -28,20 +28,17 @@
   </a>
 </h1>
 
-<p align="center">
   Esta API em .NET Core foi desenvolvida para fornecer dados em formato JSON sobre os chefes da série de jogos Mega Man.
   Ela funciona como um serviço backend construído com .NET Core 3.1, oferecendo acesso estruturado e confiável aos dados dos robôs mestres de diversos jogos da franquia.
-  <br />
-</p>
+ 
 
-<p align="center">
-  Principais Funcionalidades:
+### Principais Funcionalidades:
     Entity Framework Core para interações com o banco de dados de forma eficiente e escalável.
     Design RESTful para fácil consumo por aplicações frontend, clientes mobile ou outros serviços.
     Respostas em JSON formatadas para facilitar a integração.
     Desenvolvida com tecnologias modernas do .NET e boas práticas para garantir desempenho e manutenibilidade.
 
-  Casos de Uso:
+### Casos de Uso:
     Ideal para fãs, desenvolvedores ou criadores de conteúdo que desejam integrar dados dos chefes de Mega Man em aplicações, dashboards ou ferramentas relacionadas a jogos.
   <br />
 </p>
