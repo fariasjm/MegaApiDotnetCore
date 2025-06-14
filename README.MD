@@ -33,10 +33,10 @@
  
 
 ### Principais Funcionalidades:
-  Entity Framework Core para interações com o banco de dados de forma eficiente e escalável.
-  Design RESTful para fácil consumo por aplicações frontend, clientes mobile ou outros serviços.
-  Respostas em JSON formatadas para facilitar a integração.
-  Desenvolvida com tecnologias modernas do .NET e boas práticas para garantir desempenho e manutenibilidade.
+  - Entity Framework Core para interações com o banco de dados de forma eficiente e escalável.
+  - Design RESTful para fácil consumo por aplicações frontend, clientes mobile ou outros serviços.
+  - Respostas em JSON formatadas para facilitar a integração.
+  - Desenvolvida com tecnologias modernas do .NET e boas práticas para garantir desempenho e manutenibilidade.
 
 ### Casos de Uso:
   Ideal para fãs, desenvolvedores ou criadores de conteúdo que desejam integrar dados dos chefes de Mega Man
