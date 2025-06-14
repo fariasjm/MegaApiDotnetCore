@@ -79,50 +79,14 @@ em aplicações, dashboards ou ferramentas relacionadas a jogos.
 
 ### Dependências
 
-<table align="center">
-  <tr>
-    <th>Package</th>
-    <th>Version</th>
-    <th>Link</th>
-  </tr>
-  <tr>
-    <td>Microsoft.EntityFrameworkCore</td>
-    <td>3.1.8</td>
-    <td>
-      <a
-        href="https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/3.1.8"
-        >NuGet</a
-      >
-    </td>
-  </tr>
-  <tr>
-    <td>Microsoft.EntityFrameworkCore.Design</td>
-    <td>3.1.8</td>
-    <td>
-      <a
-        href="https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Design/3.1.8"
-        >NuGet</a
-      >
-    </td>
-  </tr>
-  <tr>
-    <td>Microsoft.EntityFrameworkCore.SqlServer</td>
-    <td>3.1.8</td>
-    <td>
-      <a
-        href="https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.SqlServer/3.1.8"
-        >NuGet</a
-      >
-    </td>
-  </tr>
-  <tr>
-    <td>Newtonsoft.Json</td>
-    <td>12.0.2</td>
-    <td>
-      <a href="https://www.nuget.org/packages/Newtonsoft.Json/12.0.2">NuGet</a>
-    </td>
-  </tr>
-</table>
+O projeto depende dos seguintes pacotes NuGet e tecnologias principais:
+
+  - Microsoft.EntityFrameworkCore – ORM (mapeador objeto-relacional) para acesso ao banco de dados
+  - Microsoft.AspNetCore.Mvc – Componentes principais para construção de APIs web
+  - Microsoft.Extensions.DependencyInjection – Suporte nativo à injeção de dependência
+  - Swashbuckle.AspNetCore – Geração de documentação Swagger/OpenAPI
+  - Newtonsoft.Json (opcional) – Serialização JSON avançada (se necessário)
+  - Microsoft.EntityFrameworkCore.SqlServer ou Sqlite – Provedor de banco de dados (dependendo da configuração)
 
 ### Arch
 
@@ -140,7 +104,10 @@ src
 │   ├── 📂 Repositories     [Repository pattern]
 ```
 
-### License This software is licensed under the terms of the [MIT]
+### Licença
+Este software está licenciado sob os termos da Licença MIT.
+Você é livre para usar, modificar e distribuir, desde que mantenha a devida atribuição e inclua a licença original.
+
 
 ⌨️ FelipeAguiar -
 [Github](https://github.com/felipeAguiarCode)
