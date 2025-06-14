@@ -140,7 +140,7 @@ src
 │   ├── 📂 Repositories     [Repository pattern]
 ```
 
-## License This software is licensed under the terms of the [MIT]
+### License This software is licensed under the terms of the [MIT]
 
 ⌨️ FelipeAguiar -
 [Github](https://github.com/felipeAguiarCode)
