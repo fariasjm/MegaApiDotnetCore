@@ -72,17 +72,12 @@ em aplicações, dashboards ou ferramentas relacionadas a jogos.
   </tr>
 </table>
 
-## Techniques Used
+### Techniques Used
+  - Entity Framework Core: ORM for data management
+  - RESTful API Design: Ensures clear and effective communication endpoints
+  - Dependency Injection: Used throughout to promote loose coupling and enhanced testability.
 
-<p align="center">
-  - <b>Entity Framework Core:</b> ORM for data management.<br />
-  - <b>RESTful API Design:</b> Ensures clear and effective communication
-  endpoints.<br />
-  - <b>Dependency Injection:</b> Used throughout to promote loose coupling and
-  enhanced testability.<br />
-</p>
-
-## Dependencies
+### Dependencies
 
 <table align="center">
   <tr>
