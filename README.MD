@@ -39,7 +39,8 @@
     Desenvolvida com tecnologias modernas do .NET e boas práticas para garantir desempenho e manutenibilidade.
 
 ### Casos de Uso:
-    Ideal para fãs, desenvolvedores ou criadores de conteúdo que desejam integrar dados dos chefes de Mega Man em aplicações, dashboards ou ferramentas relacionadas a jogos.
+    Ideal para fãs, desenvolvedores ou criadores de conteúdo que desejam integrar dados dos chefes de Mega Man em aplicações, 
+dashboards ou ferramentas relacionadas a jogos.
   <br />
 </p>
 
