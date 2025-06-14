@@ -124,7 +124,7 @@ em aplicações, dashboards ou ferramentas relacionadas a jogos.
   </tr>
 </table>
 
-## :gear: Arch
+### Arch
 
 ```🌐
 src
