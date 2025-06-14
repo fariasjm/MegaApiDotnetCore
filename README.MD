@@ -106,6 +106,7 @@ src
 
 ### Licença
 Este software está licenciado sob os termos da Licença MIT.
+
 Você é livre para usar, modificar e distribuir, desde que mantenha a devida atribuição e inclua a licença original.
 
 
